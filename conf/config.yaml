@@ -1,0 +1,12 @@
+mysql:
+  Db: mysql
+  DbHost: 127.0.0.1
+  DbPort: 3306
+  DbUser: root
+  DbPassWord: 111111
+  DbName: mall
+
+redis:
+  addr: 192.168.220.239:6379
+  password: 111111
+  db: 0
